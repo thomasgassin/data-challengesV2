@@ -9,4 +9,4 @@ def convert(amount, currency):
     currency is a string
     """
 
-    pass  # YOUR CODE HERE
+    return (amout,currency)  # YOUR CODE HERE
